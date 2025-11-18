@@ -1,5 +1,5 @@
 # Airbnb Listings EDA Project: New York 2024  
-
+![](https://s3.us-east-1.amazonaws.com/cdn.designcrowd.com/blog/airbnb-logo-history/Color-Airbnb-Logo.jpg)
 ---
 
 ## Project Overview
